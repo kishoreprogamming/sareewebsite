@@ -1,0 +1,55 @@
+.head3{
+    text-align: center;
+}
+.fa-magnifying-glass{
+    margin-top: 5px;
+    font-size: 20px;
+}
+#para{
+    height: 80px;
+}
+.sspan{
+    display: block;
+    text-align: center;
+    margin-top: 45px;
+}
+.fa-star{
+    margin-left: 30px;
+    color: green;
+}
+#saler{
+    background: #fff6ef !important;
+    overflow: hidden;
+}
+.heading{
+    text-align: center;
+    margin-top: 40px;
+}
+.owl-carousel{
+    margin-top: 60px;
+}
+.paras{
+    text-align: center;
+}
+/* .tem{
+    height: 150px;
+} */
+.rounded{
+    height: 50px !important;
+    width: 50px !important;
+    border-radius: 40px !important;
+    margin-left: 130px;
+}
+.star{
+    color: black;
+}
+.rev{
+    background: white;
+    border: 2px solid wheat;
+}
+.list{
+    display:none;
+}
+
+
+
